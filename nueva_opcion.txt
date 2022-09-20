@@ -1,6 +1,10 @@
 html
+title
 h1
 div
 otro cambio
 uno mas
+header
+footer
+img
 body
