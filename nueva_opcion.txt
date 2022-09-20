@@ -1,4 +1,8 @@
 html
+title
 h1
 div
+header
+footer
+img
 body
